@@ -1,0 +1,16 @@
+{
+
+  // keep your auto parameter hints
+  "editor.parameterHints.enabled": true,
+
+  // completely disable hover‐on‐mouse‐over
+  "editor.hover.enabled": false,
+
+  // settings.json
+
+  // stop greying out unreachable/unused code
+  "editor.unnecessaryCode.opacity": 1,
+  "editor.unnecessaryCode.enabled": false
+
+
+}
